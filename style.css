@@ -1,0 +1,104 @@
+body {
+    background: rgb(127, 182, 173);
+    font-family: 'Gill Sans', 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    color: black;
+    margin: 30px;
+}
+
+nav {
+    margin: 20px;
+    margin-left: 50px;
+}
+
+nav a {
+    font-size: 20px;
+    display: inline-block;
+    position: relative;
+    padding: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+
+#index h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(48, 46, 47);
+}
+
+#index img {
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 450px;
+}
+
+#img {
+    width: 430px;
+    border-radius: 20px;
+    float: left;
+}
+
+#home h2 {
+    margin: 10px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(80, 63, 73);
+}
+
+#home h3 {
+    width: 600px;
+    font-size: 20px;
+    color: #333;
+    padding: 40px;
+    float: left;
+}
+
+#hobby h2 {
+    margin: 10px;
+    margin-left: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(80, 63, 73);
+}
+
+#hobby h3 {
+    width: 800px;
+    font-size: 20px;
+    color: #333;
+    padding: 40px;
+    justify-content: center;
+}
+
+#pic img {
+    width: 500px;
+    padding: 40px;
+    height: 600px;
+}
+
+#gallery img {
+    width: 350px;
+    height: 500px;
+    padding: 30px;
+}
+
+#contact {
+    font-size: 30px;
+    text-align: center;
+    margin-left: 400px;
+    background-color: rgb(224, 253, 253);
+    width: fit-content;
+    padding: 20px;
+}
+
+#footer {
+    position: absolute;
+    top: 800px;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+}
